@@ -15,6 +15,6 @@ in python environment `env` we install two libraries `traci` that talks to SUMO 
 
 ![Map](./screenshots/1.png)
 
-![[Pasted image 20260217163446.png]]
+
 
 # Traffic Index Idea
