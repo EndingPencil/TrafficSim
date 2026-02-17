@@ -14,6 +14,7 @@ in python environment `env` we install two libraries `traci` that talks to SUMO 
 `config/` folder with a real map using the **OSM Web Wizard**.
 
 ![Map](./screenshots/1.png)
+![Map2](./screenshots/2.png)
 
 
 
